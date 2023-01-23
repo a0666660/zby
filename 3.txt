@@ -1,10 +1,7 @@
 1.23更新,#genre#
 星空卫视,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8 
-
 广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8 
-
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
-
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 稳定,#genre#
 寰宇新聞,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/huanyuxinwen_twn/playlist.m3u8
