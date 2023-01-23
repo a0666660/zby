@@ -6,7 +6,6 @@
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
 
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
-
 稳定,#genre#
 寰宇新聞,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/huanyuxinwen_twn/playlist.m3u8
 龍華經典臺[1280*720],http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/lunghuajingdian_twn/playlist.m3u8
