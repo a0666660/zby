@@ -4,9 +4,7 @@
 广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8 
 
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
-翡翠台,https://epg.pw/stream/593771bbc89cc16417a2204a4dff1040639f550d9885bc743a83eb58abda2c8f.ctv
-翡翠台,https://epg.pw/stream/e19bcfedfcbbfdf88f5486270c3f99a7fbc01c186efd990fb59c0596cb0d4de8.ctv
-翡翠台,https://epg.pw/stream/043685a2b3f10a0783f34b2b2c65270e287c54e342949e662ba456798dd5bc22.ctv
+
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 
 
